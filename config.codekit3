@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26330",
 "files": {
+	"\/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/CNAME",
+		"oF": 0
+		},
 	"\/css\/app.scss": {
 		"aP": 0,
 		"bl": 0,
