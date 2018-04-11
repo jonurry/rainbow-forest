@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26330",
 "files": {
+	"\/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/browserconfig.xml",
+		"oF": 0
+		},
 	"\/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -34,6 +41,288 @@
 		"oA": 1,
 		"oAP": "\/docs\/docs",
 		"oF": 0
+		},
+	"\/img\/favicons\/android-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 11594,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/android-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/android-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 14190,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/android-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/android-icon-36x36.png": {
+		"ft": 32768,
+		"iS": 2437,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/android-icon-36x36.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/android-icon-48x48.png": {
+		"ft": 32768,
+		"iS": 3366,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/android-icon-48x48.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/android-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 5068,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/android-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/android-icon-96x96.png": {
+		"ft": 32768,
+		"iS": 7234,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/android-icon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 8757,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-icon-114x114.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 9333,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 11594,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 12397,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 15374,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 4007,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-icon-57x57.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 4191,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 5068,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 5399,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 14766,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-icon.png": {
+		"ft": 32768,
+		"iS": 14766,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1209,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 2251,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 7234,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/favicon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/favicon.ico",
+		"oF": 0
+		},
+	"\/img\/favicons\/ms-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 11594,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/ms-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/ms-icon-150x150.png": {
+		"ft": 32768,
+		"iS": 12187,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/ms-icon-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/ms-icon-310x310.png": {
+		"ft": 32768,
+		"iS": 35146,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/ms-icon-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/ms-icon-70x70.png": {
+		"ft": 32768,
+		"iS": 4960,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/ms-icon-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/rainbow-forest-logo.png": {
+		"ft": 32768,
+		"iS": 86264,
+		"oA": 0,
+		"oAP": "\/docs\/img\/rainbow-forest-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/img\/walking-man-sprite-800px-original.png": {
 		"ft": 32768,
@@ -81,6 +370,14 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/manifest.json": {
+		"ft": 524288,
+		"oA": 0,
+		"oAP": "\/docs\/manifest.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -109,7 +406,7 @@
 	"displayValue": "rainbow-forest",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-ron",
-	"lastBuiltDate": 545136433
+	"lastBuiltDate": 545151262
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
