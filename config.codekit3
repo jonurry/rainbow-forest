@@ -7,7 +7,7 @@
 		"uuidString": "7D5837E1-5F88-41A3-B256-99145E1D9EE9"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/browserconfig.xml": {
 		"cB": 0,
@@ -337,7 +337,7 @@
 		},
 	"\/img\/walking-man-sprite-800px.png": {
 		"ft": 32768,
-		"iS": 35641,
+		"iS": 35902,
 		"oA": 0,
 		"oAP": "\/docs\/img\/walking-man-sprite-800px.png",
 		"oF": 0,
@@ -364,8 +364,38 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/docs\/js\/app.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/queue.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/docs\/js\/queue.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/rainbow-tree.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/docs\/js\/rainbow-tree.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/walking-man.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/docs\/js\/walking-man.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -406,7 +436,8 @@
 	"displayValue": "rainbow-forest",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-ron",
-	"lastBuiltDate": 545151262
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 545319421
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1800,7 +1831,7 @@
 			"optionString": "'never', {'exceptRange': false, 'onlyEquality': false}"
 			}
 		},
-	"esLintSourceType": 0,
+	"esLintSourceType": 1,
 	"externalServerAddress": "http:\/\/localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
@@ -2209,17 +2240,18 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 2,
 		"autoOutputPathFilenamePattern": "*.js",
 		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"minifyOutput": 1,
+		"minifyOutput": 0,
 		"syntaxCheckerStyle": 3,
 		"transpilerStyle": 0
 		},
